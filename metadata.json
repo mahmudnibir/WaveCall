@@ -1,0 +1,8 @@
+{
+  "name": "WaveApp",
+  "description": "Ultra-low-data real-time video communication optimized for unstable networks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
